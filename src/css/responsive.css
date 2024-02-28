@@ -1,0 +1,14 @@
+@media (max-width: 375px ) {
+    .card {
+        width: 280px;
+        height: 490px;
+    }
+
+    .info img {
+        margin-top: 20px;
+    }
+
+    .social-links {
+        width: 85%;
+    }
+}
