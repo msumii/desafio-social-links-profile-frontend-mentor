@@ -25,26 +25,26 @@ body {
     text-align: center;
 }
 
-.info img {
+.info .avatar {
     margin-top: 35px;
     border-radius: 50%;
     width: 70px;
 }
 
-.info h1 {
+.info .name {
     margin-top: 20px;
     font-size: 2rem;
     font-weight: 600;
     color: hsl(0, 0%, 100%);
 }
 
-.info h2 {
+.info .location {
     margin-top: 8px;
     font-size: 1.2rem;
     color: hsl(75, 94%, 57%);
 }
 
-.info p {
+.info .description {
     margin-top: 20px;
     font-size: 1.2rem;
     color: hsl(0, 0%, 100%);
